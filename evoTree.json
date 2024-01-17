@@ -1,0 +1,110 @@
+{   
+    "sealion": [58,
+    {
+        "belugawhale": [109,
+        {
+            "bowheadwhale": 112,
+            "whale": 12,
+            "humpbackwhale": 87
+        }],
+        "leopardseal": [15,
+        {
+            "walrus": 71,
+            "elephantseal": 46,
+            "polarbear": 25
+        }],
+        "narwhal": [23,
+        {
+            "cachalot": 24,
+            "beakedwhale": 107
+        }]
+    }],
+    "mahimahi": [70,
+    {
+        "dolphin": [9,
+        {
+            "killerwhale": 11,
+            "marlin": 30
+        }],
+
+        "seaturtle": [19,
+        {
+            "leatherbackturtle": 100,
+            "napoleonwrasse": 121
+        }]
+    }],
+    "octopus": [21,
+    {
+        "mantisshrimp": [74,
+        {
+            "coconutcrab": 103,
+            "japanesespidercrab": 113
+        }],
+        "humboldtsquid": [57,
+        {
+            "giantsquid": 22,
+            "colossalsquid": 91,
+            "giantpacificoctopus": 106
+        }]
+    }],
+    "barracuda": [96,
+    {
+        "wobbegongshark": [99,
+        {
+            "whaleshark": 28,
+            "baskingshark": 90,
+            "tigershark": 66
+        }],
+        "tshark": [8,
+        {
+            "shark": 10,
+            "threshershark": 101,
+            "bullshark": 104
+        }],
+        "lionfish": [43,
+        {
+            "morayeel": 98,
+            "stonefish": 32,
+            "atlantictorpedo": 102
+        }]
+    }],
+    "dragonfish": [56,
+    {
+        "wolfeel": [117,
+        {
+            "halibut": 111,
+            "coelacanth": 119
+        }],
+        "oarfish": [20,
+        {
+            "mantaray": 45,
+            "sunfish": 31
+        }],
+        "frilledshark": [72,
+        {
+            "goblinshark": 61,
+            "sleepershark":48,
+            "megamouthshark": 108
+        }]
+    }],
+    "snappingturtle": [39,
+    {
+        "electriceel": [35,
+        {
+            "alligatorgar": 86,
+            "sawfish": 73
+        }],
+        "giantsalamander": [81,
+        {
+            "anaconda": 68,
+            "alligatorsnappingturtle": 82,
+            "giantsoftshellturtle": 83
+        }],
+        "manatee": [38,
+        {
+            "baldeagle": 42,
+            "crocodile": 34,
+            "hippo": 37
+        }]
+    }]
+}
