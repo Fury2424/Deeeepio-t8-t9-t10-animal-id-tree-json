@@ -5,4 +5,4 @@ In case a like-minded person needed a JSON file full of the EVO tree including t
 
 The dataset doesn't include piranha.
 
-Also, any errors will be fixed (eventually) but please let me know if you notice anything and make a correction.
+Also, any errors will be fixed (eventually) but please let me know if you notice anything and make a correction. ("fury_balls" on discord)
